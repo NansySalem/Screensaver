@@ -25,5 +25,6 @@
 - Start Screensaver/Screensaver.sln
 - This will open the project in visual studio 
 - Alternatively, you can download the project folder
+- Unzip the folder, open Screensaver-master folder
 - Run Screensaver.sln
 
